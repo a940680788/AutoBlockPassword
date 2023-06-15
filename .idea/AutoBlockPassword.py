@@ -13,7 +13,6 @@ password_error_num=5
 #获取已存在的黑名单ip，变成字典
 def getDent():
     #黑名单字典
-
     deniedDict = {}
     list = open(hostDeny).readlines()
     print(list)
