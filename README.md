@@ -1,2 +1,3 @@
 # AutoBlockPassword
 自动阻断密码爆破封禁ip
+通过对secure文件的分析，在hosts.deny中添加封禁ip实现自动阻断密码爆破
